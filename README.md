@@ -27,6 +27,30 @@ conda env create -f environment.yml
 conda activate shp
 ```
 
+# Citation
+
+If you find this useful for your research, we would be appreciated if you cite the following papers:
+
+```
+@inproceedings{qiao2023shp,
+  author       = {Jie Qiao and
+                  Ruichu Cai and
+                  Siyu Wu and
+                  Yu Xiang and
+                  Keli Zhang and
+                  Zhifeng Hao},
+  title        = {Structural Hawkes Processes for Learning Causal Structure from Discrete-Time
+                  Event Sequences},
+  booktitle    = {Proceedings of the Thirty-Second International Joint Conference on
+                  Artificial Intelligence, {IJCAI} 2023, 19th-25th August 2023, Macao,
+                  SAR, China},
+  pages        = {5702--5710},
+  publisher    = {ijcai.org},
+  year         = {2023},
+  url          = {https://doi.org/10.24963/ijcai.2023/633}
+}
+```
+
 
 
 
