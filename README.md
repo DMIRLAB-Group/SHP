@@ -27,6 +27,12 @@ conda env create -f environment.yml
 conda activate shp
 ```
 
+# Real World Experiment
+
+The real world experiment is implemented in `real_world_data_exp.py`. The dataset used for this experiment, `18V_55N_Wireless.tar.gz`, can be found on: [PCIC Causal Discovery Competition 2021](https://competition.huaweicloud.com/information/1000041487/dataset).
+
+To run the real experiment, make sure to download the dataset and place `Alarm.csv` and `DAG.npy` in the appropriate directory. 
+
 # Citation
 
 If you find this useful for your research, we would be appreciated if you cite the following papers:
